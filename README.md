@@ -1,6 +1,6 @@
 # Defending the power grid by segmenting the EV charging cyber infrastructure
 
-This repo contains the case study files used within the numerical case study on the near-real-world case of Germany in our paper *Defending the power grid by segmenting the EV charging cyber infrastructure*.
+This repo contains the case study files used within the numerical case study on the near-real-world case of Germany in our paper *Defending the power grid by segmenting the EV charging cyber infrastructure*. The preprint is available on [arXiv](https://doi.org/10.48550/arXiv.2603.17640).
 
 ```
 Authors (paper): Kirill Kuroptev, Florian Steinke, Efthymios Karangelos
