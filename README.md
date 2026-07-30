@@ -1,20 +1,26 @@
 # Defending the power grid by segmenting the EV charging cyber infrastructure
 
-This repo contains the case study files used within the numerical case study on the near-real-world case of Germany in our paper *Defending the power grid by segmenting the EV charging cyber infrastructure*. The preprint is available on [arXiv](https://doi.org/10.48550/arXiv.2603.17640).
+This repo contains the case study files used within the numerical case study on the near-real-world case of Germany in our paper *Defending the power grid by segmenting the EV charging cyber infrastructure*. The paper is available [here](https://doi.org/10.1016/j.epsr.2026.113537).
 
 ```
 Authors (paper): Kirill Kuroptev, Florian Steinke, Efthymios Karangelos
 Author (software): Kirill Kuroptev
-Venue to be presented: PSCC 2026
+Venue presented: PSCC 2026
 ```
 **In case you use the code or curated data sets, please cite our work using the BibTeX:**
 
 ```
-@inproceedings{kuroptev2025segmentation,
-  author    = {Kirill Kuroptev, Florian Steinke, Efthymios Karangelos},
-  title     = {Defending the power grid by segmenting the EV charging cyber infrastructure},
-  year      = {2025},
-  note      = {Accepted for presentation at the PSCC 2026}
+@article{Kuroptev2027,
+  title = {Defending the power grid by segmenting the EV charging cyber infrastructure},
+  volume = {262},
+  ISSN = {0378-7796},
+  DOI = {10.1016/j.epsr.2026.113537},
+  journal = {Electric Power Systems Research},
+  publisher = {Elsevier BV},
+  author = {Kuroptev,  Kirill and Steinke,  Florian and Karangelos,  Efthymios},
+  year = {2027},
+  month = Jan,
+  pages = {113537}
 }
 ```
 
